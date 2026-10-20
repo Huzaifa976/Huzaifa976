@@ -15,10 +15,19 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: Huzaifa976
           template: classic
-          # Only keep the clean header (removes all Activity, Community & Repos text clutter)
           base: header
           config_timezone: Asia/Karachi
-          config_padding: 0, 4%
+          config_padding: 0, 3%
+
+          # Force small, sleek, compact typography
+          extras_css: |
+            svg { font-size: 10px !important; }
+            h1, h1 span { font-size: 14px !important; }
+            h2 { font-size: 12px !important; }
+            h3 { font-size: 11px !important; }
+            .field { font-size: 10px !important; line-height: 1.2 !important; }
+            .field svg { transform: scale(0.85); margin: 0 4px !important; }
+            text { font-size: 9.5px !important; }
 
           # 1. 3D Isometric Calendar
           plugin_isocalendar: yes
