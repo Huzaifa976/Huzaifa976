@@ -1,4 +1,4 @@
-﻿# ðŸ‘¨â€ðŸ’» Huzaifa Tariq | Data Scientist & Analytics Engineer
+# 👨‍💻 Huzaifa Tariq | Data Scientist & Analytics Engineer
 
 <div align="center">
   <p><b>Data Scientist & Analytics Engineer</b> specializing in Enterprise Data Warehouses, Scalable ETL Pipelines, Algorithmic Multi-Touch Attribution, and Machine Learning.</p>
@@ -12,7 +12,7 @@
 
 ---
 
-### ðŸ“Š Live GitHub Metrics & Activity
+### 📊 Live GitHub Metrics & Activity
 
 <div align="center">
   <img src="github-metrics.svg" alt="Huzaifa's GitHub Metrics" width="480" />
@@ -27,31 +27,30 @@
 
 ---
 
-### ðŸ› ï¸ Technical Arsenal
+### 🛠️ Technical Arsenal
 
 <div align="center">
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages** | `Python` â€¢ `SQL (PostgreSQL)` â€¢ `JavaScript` â€¢ `Bash` â€¢ `PowerShell` |
-| **Data Science & ML** | `Pandas` â€¢ `NumPy` â€¢ `Scikit-Learn` â€¢ `Matplotlib` â€¢ `Seaborn` â€¢ `Predictive Analytics` |
-| **Data Engineering** | `PostgreSQL (Star Schema)` â€¢ `FastAPI` â€¢ `REST APIs` â€¢ `ETL Pipelines` â€¢ `Webhooks Gateway` |
-| **Business Intelligence** | `Power BI` â€¢ `DBeaver` â€¢ `Google Analytics 4 (GA4)` â€¢ `ShopifyQL` |
-| **Platforms & Ad Tech** | `Shopify Admin API` â€¢ `Meta Marketing API` â€¢ `Google Ads API` â€¢ `Meta CAPI` |
+| **Languages** | `Python` • `SQL (PostgreSQL)` • `JavaScript` • `Bash` • `PowerShell` |
+| **Data Science & ML** | `Pandas` • `NumPy` • `Scikit-Learn` • `Matplotlib` • `Seaborn` • `Predictive Analytics` |
+| **Data Engineering** | `PostgreSQL (Star Schema)` • `FastAPI` • `REST APIs` • `ETL Pipelines` • `Webhooks Gateway` |
+| **Business Intelligence** | `Power BI` • `DBeaver` • `Google Analytics 4 (GA4)` • `ShopifyQL` |
+| **Platforms & Ad Tech** | `Shopify Admin API` • `Meta Marketing API` • `Google Ads API` • `Meta CAPI` |
 
 </div>
 
 ---
 
-### ðŸš€ Key Focus & Architecture
-- ðŸ—ï¸ **End-to-End Enterprise Data Warehousing:** Designing 3-tier warehouse architectures (`raw_layer`, `clean_layer`, `analytics_layer`) processing tens of thousands of orders.
-- ðŸŽ¯ **Algorithmic Multi-Touch Attribution (MTA):** Engineering Position-Based (40/20/40), Linear, First-Touch, and Last-Touch attribution models to eliminate marketing double-counting.
-- ðŸ’° **Realized Financial Reconciliation:** Auditing and reconciling COD cash velocity, courier fulfillment pipelines, and True Realized Cash ROAS.
-- âš¡ **First-Party Cookie-less Tracking:** Deploying client-side tracking snippets and server-side webhook gateways for reliable cross-channel event capture.
+### 🚀 Key Focus & Architecture
+- 🏗️ **End-to-End Enterprise Data Warehousing:** Designing 3-tier warehouse architectures (`raw_layer`, `clean_layer`, `analytics_layer`) processing tens of thousands of orders.
+- 🎯 **Algorithmic Multi-Touch Attribution (MTA):** Engineering Position-Based (40/20/40), Linear, First-Touch, and Last-Touch attribution models to eliminate marketing double-counting.
+- 💰 **Realized Financial Reconciliation:** Auditing and reconciling COD cash velocity, courier fulfillment pipelines, and True Realized Cash ROAS.
+- ⚡ **First-Party Cookie-less Tracking:** Deploying client-side tracking snippets and server-side webhook gateways for reliable cross-channel event capture.
 
 ---
 
 <div align="center">
-  <sub>âš¡ Automated with GitHub Actions â€¢ Crafted with precision by Huzaifa Tariq</sub>
+  <sub>⚡ Automated with GitHub Actions • Crafted with precision by Huzaifa Tariq</sub>
 </div>
-
