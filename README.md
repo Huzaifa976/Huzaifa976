@@ -1,4 +1,4 @@
-      ﻿# 👨‍💻 Huzaifa Tariq | Data Scientist & Analytics Engineer
+ ﻿# 👨‍💻 Huzaifa Tariq | Data Scientist & Analytics Engineer
 
 <div align="center">
   <p><b>Data Scientist & Analytics Engineer</b> specializing in Enterprise Data Warehouses, Scalable ETL Pipelines, Algorithmic Multi-Touch Attribution, and Machine Learning.</p>
